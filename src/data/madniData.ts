@@ -1,3 +1,9 @@
+import heroEstateImg from '../assets/images/hero_faisalabad_luxury_estate_1793426908462.jpg';
+import royalPenthouseImg from '../assets/images/suite_royal_penthouse_1793426909888.jpg';
+import satyanaCommercialImg from '../assets/images/property_satyana_commercial_1793426911622.jpg';
+import weekendRetreatImg from '../assets/images/package_weekend_retreat_1793426912768.jpg';
+import canalVillaImg from '../assets/images/gallery_canal_villa_1793426913076.jpg';
+
 export const AGENCY_INFO = {
   name: 'Madni Real Estate',
   fullTitle: 'Madni Real Estate || Best Real Estate Agency In Faisalabad',
@@ -20,11 +26,11 @@ export const AGENCY_INFO = {
 };
 
 export const IMAGES = {
-  heroEstate: '/src/assets/images/hero_faisalabad_luxury_estate_1793426908462.jpg',
-  royalPenthouse: '/src/assets/images/suite_royal_penthouse_1793426909888.jpg',
-  satyanaCommercial: '/src/assets/images/property_satyana_commercial_1793426911622.jpg',
-  weekendRetreat: '/src/assets/images/package_weekend_retreat_1793426912768.jpg',
-  canalVilla: '/src/assets/images/gallery_canal_villa_1793426913076.jpg',
+  heroEstate: heroEstateImg,
+  royalPenthouse: royalPenthouseImg,
+  satyanaCommercial: satyanaCommercialImg,
+  weekendRetreat: weekendRetreatImg,
+  canalVilla: canalVillaImg,
 };
 
 export interface SuiteOrProperty {
