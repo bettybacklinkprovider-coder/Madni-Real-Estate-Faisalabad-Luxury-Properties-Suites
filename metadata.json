@@ -1,0 +1,6 @@
+{
+  "name": "Madni Real Estate — Faisalabad Luxury Properties & Suites",
+  "description": "Premier real estate agency and luxury executive suites in Faisalabad, Pakistan. Located at Street no 6, Satyana Road, Muhallah Fatehabad.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
